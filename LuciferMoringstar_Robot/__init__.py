@@ -27,7 +27,7 @@ Bot Owner Only
 
 """
 
-ABOUT = """
+ABOUT😎 = """
 ♻️ Name :  KATY PERRY 
     
 ♻️ Creator : [MOHDHANEEN](@MOHD_HANEEN)
