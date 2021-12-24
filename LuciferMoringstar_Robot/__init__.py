@@ -28,9 +28,9 @@ Bot Owner Only
 """
 
 ABOUT = """
-♻️ Name :  KATY PERRY 
+♻️ Name :  **ZYAN MALIK**
     
-♻️ Creator : [MOHDHANEEN](@MOHD_HANEEN)
+♻️ Creator : **@MOHD_HANEEN**
 
 ♻️ Language : Python3
 
